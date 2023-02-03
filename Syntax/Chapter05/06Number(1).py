@@ -26,6 +26,7 @@ x = 10.0
 y = 0.3
 z = 1
 
+
 print(x + y)
 print(x - y)
 print(x * y)
