@@ -5,6 +5,7 @@ b = 3
 
 print(a+b) # 덧셈
 
+
 print(a-b) # 뺄셈
 
 print(a*b) # 곱셈
