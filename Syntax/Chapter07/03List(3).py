@@ -18,5 +18,10 @@ print(sorted(colors))
 # 길이 - 요소의 갯수
 print(len(colors))
 
+# colors[-1] => 리스트의 가장 마지막 원소를 의미함
+print(colors[-1])
+
+
+
 
 
